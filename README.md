@@ -137,7 +137,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👤 Author
 - **Name**: BISWADEV BISWAS
-- **Email**: [polok.cse9.bu@gmail.com](mailto:polok.cse9.bu@gmail.com)
+- **Email**: [biswadev.biswas01@gmail.com](mailto:biswadev.biswas01@gmail.com)
 
 ---
 
