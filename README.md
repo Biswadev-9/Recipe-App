@@ -20,7 +20,7 @@
   [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
   <br><br>
-  <a href="https://github.com/Likhon-Mandal/Recipe-App/releases/latest">
+  <a href="https://github.com/Biswadev-9/Recipe-App/releases/tag/v1">
     <img src="https://img.shields.io/badge/Download_Latest_App-%23800000?style=for-the-badge&logo=android&logoColor=white" alt="Download Latest App" />
   </a>
 
